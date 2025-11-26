@@ -1,0 +1,31 @@
+# Virtual environments
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files (OS-generated)
+.DS_Store
+Thumbs.db
+
+# Environment and secret keys
+.env
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Build and distribution folders
+build/
+d
